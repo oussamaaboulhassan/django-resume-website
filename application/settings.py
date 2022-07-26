@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-k=%7_2@(fnvzu0yohy+$654c0flc$um6pm@2@tm^jak_v#26w_
 DEBUG = False
 
 ALLOWED_HOSTS = ['localhost', 'https://beforeigo.herokuapp.com/'
-'127.0.0.1']
+'127.0.0.1:8000']
 
 
 # Application definition
