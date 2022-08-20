@@ -19,3 +19,6 @@ def skills(response):
 
 def contact(response):
     return render(response, "app/contact.html",{})
+
+def degree(response):
+    return render(response, "app/study.html",{})
